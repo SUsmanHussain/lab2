@@ -1,3 +1,5 @@
-# first level headng
-## second level heading    
-### third level heading
+# Introduction to Github
+**This text is bold**\
+*this text is italic*\
+***This text  is both bold and italics***\
+~~oops i MADE AN ERRROR~~
